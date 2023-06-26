@@ -99,17 +99,7 @@
     <p>
     > ⚠️ <b>Most Used Languages</b> is only a metric calculated from my public code and doesn't reflect experience or skill level
     </p>
-    <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-🌆 Daytime                136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌃 Evening                349 commits         ██████████░░░░░░░░░░░░░░░   41.50 % 
-🌙 Night                  315 commits         █████████░░░░░░░░░░░░░░░░   37.46 % 
-```
-
-
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </details>
