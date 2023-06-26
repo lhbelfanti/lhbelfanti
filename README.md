@@ -95,8 +95,8 @@
         <img alt="lhbelfanti's Most Used Languages" src="https://github-readme-stats-lhbelfanti.vercel.app/api/top-langs/?username=lhbelfanti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70&hide=Jupyter%20Notebook,Roff,ShaderLab" height="192px"/>
     </a>
     </br>
-    </br>
     <p>⚠️ <b>Most Used Languages</b> is only a metric from my public code and doesn't reflect experience or skill level</p>
+    </br>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
