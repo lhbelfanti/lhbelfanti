@@ -96,9 +96,7 @@
     </a>
     </br>
     </br>
-    <p>
-    > ⚠️ <b>Most Used Languages</b> is only a metric calculated from my public code and doesn't reflect experience or skill level
-    </p>
+    <p>⚠️ <b>Most Used Languages</b> is only a metric from my public code and doesn't reflect experience or skill level</p>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
