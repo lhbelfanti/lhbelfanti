@@ -80,9 +80,8 @@
     </p>
 </details>
 
-<details open> 
+<details> 
     <summary><h2>📊 Github Stats and Activity</h2></summary>
-    </br>
     <h3>🔥 Streak Stats</h3>
     <a href="https://github.com/lhbelfanti">
         <img title="🔥 Streak Stats" alt="lhbelfanti's streak" src="https://github-readme-streak-stats-lhbelfanti.vercel.app?user=lhbelfanti&hide_border=true&currStreakNum=FFDB70&stroke=FFFFFF&sideLabels=FFFFFF&sideNums=FFDB70&dates=AAAAAA&background=2B2B2C"/>
@@ -91,7 +90,6 @@
     <!--a href="https://github.com/lhbelfanti">
         <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-lhbelfanti.vercel.app/api/?username=lhbelfanti&show_icons=true&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70" height="192px"/>
     </a-->
-    </br>
     <h3>⌨️ Top Languages</h3>
     <a href="https://github.com/lhbelfanti">
         <img alt="lhbelfanti's Most Used Languages" src="https://github-readme-stats-lhbelfanti.vercel.app/api/top-langs/?username=lhbelfanti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70&hide=Jupyter%20Notebook,Roff,ShaderLab" height="192px"/>
@@ -101,7 +99,6 @@
     <p>
     > ⚠️ <b>Most Used Languages</b> is only a metric calculated from my public code and doesn't reflect experience or skill level
     </p>
-    </br>
     <h3>⚡ Recent GitHub Activity</h3>
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
