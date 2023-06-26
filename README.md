@@ -1,17 +1,17 @@
 <p align="center">
-    <a href="https://github.com/lhbelfanti">
+    <a href="https://lucasbelfanti.com">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=1000&color=FEAE4C&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there+%F0%9F%91%8B+welcome+to+my+profile!" alt="Hi there 👋 welcome to my profile!" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/lhbelfanti">
+    <a href="https://lucasbelfanti.com">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=1000&color=FEAE4C&center=true&vCenter=true&repeat=false&width=435&height=30&lines=I+am+Lucas+Belfanti" alt="I am Lucas Belfanti" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/lhbelfanti">
+    <a href="https://lucasbelfanti.com">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=1000&color=FEAE4C&center=true&vCenter=true&width=435&height=30&lines=Full+Stack+Software+Developer;Mainly+focused+on+Back+End;%2B10+years+of+coding+experience" alt="Description" />
     </a>
 </p>
@@ -33,6 +33,8 @@
         <img alt="views" title="GitHub profile views" src="https://views-counter-lhbelfanti.up.railway.app/increment"/>
     </a>
 </p>
+
+<a href="https://lucasbelfanti.com"><img src="./media/hi.png" align="right" height="275" /></a>
 
 <details open> 
     <summary><h2> About Me</h2></summary>
@@ -90,6 +92,7 @@
     <!--a href="https://github.com/lhbelfanti">
         <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-lhbelfanti.vercel.app/api/?username=lhbelfanti&show_icons=true&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70" height="192px"/>
     </a-->
+    <a href="https://lucasbelfanti.com"><img src="./media/code.png" align="right" height="275" /></a>
     <h3>⌨️ Top Languages</h3>
     <a href="https://github.com/lhbelfanti">
         <img alt="lhbelfanti's Most Used Languages" src="https://github-readme-stats-lhbelfanti.vercel.app/api/top-langs/?username=lhbelfanti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70&hide=Jupyter%20Notebook,Roff,ShaderLab" height="192px"/>
