@@ -41,7 +41,7 @@
         <li>🌱 &nbsp;I’m currently studying Artificial Intelligence, Machine Learning and Natural Language Processing</li>
         <li>🧬 &nbsp;Read more about me at <a href="https://www.lucasbelfanti.com/">lucasbelfanti.com</a></li>
         <li>😄 &nbsp;Pronouns: He/Him</li>
-        <li>⚡  &nbsp;Fun fact: I ❤️ 🐶s, gaming ( and learn new languages</li>
+        <li>⚡  &nbsp;Fun fact: I ❤️ 🐶s, gaming and learn new languages</li>
     </ul>
 </details>
 
