@@ -99,11 +99,6 @@
     <p>
     > ⚠️ <b>Most Used Languages</b> is only a metric calculated from my public code and doesn't reflect experience or skill level
     </p>
-    <h3>⚡ Recent GitHub Activity</h3>
-    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/lhbelfanti/umbrella/pull/2) in [lhbelfanti/umbrella](https://github.com/lhbelfanti/umbrella)
-2. 💪 Opened PR [#2](https://github.com/lhbelfanti/umbrella/pull/2) in [lhbelfanti/umbrella](https://github.com/lhbelfanti/umbrella)
-3. 🎉 Merged PR [#1](https://github.com/lhbelfanti/umbrella/pull/1) in [lhbelfanti/umbrella](https://github.com/lhbelfanti/umbrella)
-4. 💪 Opened PR [#1](https://github.com/lhbelfanti/umbrella/pull/1) in [lhbelfanti/umbrella](https://github.com/lhbelfanti/umbrella)
-    <!--END_SECTION:activity-->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </details>
