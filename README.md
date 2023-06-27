@@ -91,7 +91,7 @@
     <!--a href="https://github.com/lhbelfanti">
         <img alt="lhbelfanti's Github Stats" src="https://github-readme-stats-lhbelfanti.vercel.app/api/?username=lhbelfanti&show_icons=true&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70" height="192px"/>
     </a-->
-    <a href="https://lucasbelfanti.com"><img src="./media/code.png" align="right" height="200" /></a>
+    <a href="https://lucasbelfanti.com"><img src="./media/code.png" align="right" height="275" /></a>
     <h3>⌨️ Top Languages</h3>
     <a href="https://github.com/lhbelfanti">
         <img alt="lhbelfanti's Top" src="https://github-readme-stats-lhbelfanti.vercel.app/api/top-langs/?username=lhbelfanti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70&hide=Jupyter%20Notebook,Roff,ShaderLab" height="192px"/>
