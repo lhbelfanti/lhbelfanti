@@ -34,10 +34,9 @@
     </a>
 </p>
 
-<a href="https://lucasbelfanti.com"><img src="./media/hi.png" align="right" height="275" /></a>
-
 <details open> 
     <summary><h2> About Me</h2></summary>
+    <a href="https://lucasbelfanti.com"><img src="./media/hi.png" align="right" height="200"/></a>
     <ul>
         <li>🔭 &nbsp;Constantly learning new things</li>
         <li>🌱 &nbsp;Currently studying Artificial Intelligence, Machine Learning and Natural Language Processing</li>
@@ -90,12 +89,12 @@
     </a>
     </br>
     <!--a href="https://github.com/lhbelfanti">
-        <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-lhbelfanti.vercel.app/api/?username=lhbelfanti&show_icons=true&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70" height="192px"/>
+        <img alt="lhbelfanti's Github Stats" src="https://github-readme-stats-lhbelfanti.vercel.app/api/?username=lhbelfanti&show_icons=true&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70" height="192px"/>
     </a-->
-    <a href="https://lucasbelfanti.com"><img src="./media/code.png" align="right" height="275" /></a>
+    <a href="https://lucasbelfanti.com"><img src="./media/code.png" align="right" height="200" /></a>
     <h3>⌨️ Top Languages</h3>
     <a href="https://github.com/lhbelfanti">
-        <img alt="lhbelfanti's Most Used Languages" src="https://github-readme-stats-lhbelfanti.vercel.app/api/top-langs/?username=lhbelfanti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70&hide=Jupyter%20Notebook,Roff,ShaderLab" height="192px"/>
+        <img alt="lhbelfanti's Top" src="https://github-readme-stats-lhbelfanti.vercel.app/api/top-langs/?username=lhbelfanti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70&hide=Jupyter%20Notebook,Roff,ShaderLab" height="192px"/>
     </a>
     </br>
     <p>⚠️ <b>Most Used Languages</b> is only a metric from my public code and doesn't reflect experience or skill level</p>
