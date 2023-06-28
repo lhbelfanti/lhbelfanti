@@ -50,28 +50,28 @@
     <summary><h2>🧑‍💻 My Open Source Projects</h2></summary>
     <p align="left">
         <a href="https://github.com/lhbelfanti/umbrella">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=umbrella&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Umbrella" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=umbrella&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Umbrella" />
         </a>
         <a href="https://github.com/lhbelfanti/timer">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=timer&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Timer" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=timer&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Timer" />
         </a>
         <a href="https://github.com/lhbelfanti/mahjong">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=mahjong&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Mahjong" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=mahjong&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Mahjong" />
         </a>
         <a href="https://github.com/lhbelfanti/twitter-news">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=twitter-news&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Twitter News" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=twitter-news&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Twitter News" />
         </a>
         <a href="https://github.com/lhbelfanti/sharpset">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=sharpset&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Sharpset" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=sharpset&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Sharpset" />
         </a>
         <a href="https://github.com/lhbelfanti/advent">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=advent&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Advent" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=advent&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Advent" />
         </a>
         <a href="https://github.com/lhbelfanti/qr">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=qr&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="QR" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=qr&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="QR" />
         </a>
         <a href="https://github.com/lhbelfanti/pyset">
-            <img width="300" height="120" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=pyset&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Pyset" />
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=pyset&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Pyset" />
         </a>
     </p>
     <p>
