@@ -73,6 +73,9 @@
         <a href="https://github.com/lhbelfanti/pyset">
             <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=pyset&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Pyset" />
         </a>
+        <a href="https://github.com/lhbelfanti/views-counter">
+            <img width="278" height="100" src="https://github-readme-stats-lhbelfanti.vercel.app/api/pin/?username=lhbelfanti&repo=views-counter&theme=react&bg_color=2b2b2c&title_color=FFDB70&hide_border=true&icon_color=FFDB70" alt="Views Counter" />
+        </a>
     </p>
     <p>
         <a href="https://github.com/lhbelfanti?tab=repositories&q=&type=public&language=&sort=stargazers">
