@@ -141,7 +141,6 @@
     <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
     <img alt="Charles" src="https://img.shields.io/badge/Charles-bfb6b7.svg?style=for-the-badge">
     </br>
-    </br>
 </details>
 
 <details> 
