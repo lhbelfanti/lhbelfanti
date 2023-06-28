@@ -85,6 +85,66 @@
 </details>
 
 <details> 
+    <summary><h2>🛠️ My Development Tools</h2></summary>
+    <h3>👨‍💻 Programming Languages & Markup Languages</h3>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3APython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3ATypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AHTML"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3ACSS"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3ASASS"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3ASQL"><img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AC%23"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AC"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3ActionScript"><img alt="ActionScript" src="https://img.shields.io/badge/ActionScript-CC2927?style=for-the-badge"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AC%2B%2B"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+    </br>
+    </br>
+    <h3>💻 Technologies & Frameworks</h3>
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+    <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
+    <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
+    <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-%232b2b2b.svg?style=for-the-badge">
+    <img alt="HUGO" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+    <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge">
+    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-blue.svg?style=for-the-badge">
+    <img alt="NLP" src="https://img.shields.io/badge/Natural_Language_Processing-%23121011.svg?style=for-the-badge">
+    <img alt="QT" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
+    </br>
+    </br>
+    <h3>🧰 Tools</h3>
+    <img alt="Terminal" src="https://img.shields.io/badge/ Terminal-black.svg?style=for-the-badge">
+    <img alt="JIRA" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack">
+    <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-%237269fc.svg?style=for-the-badge">
+    <img alt="Monday" src="https://img.shields.io/badge/Monday-%23ff3d57.svg?style=for-the-badge">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Goland" src="https://img.shields.io/badge/GoLand-%23895dfd?&style=for-the-badge&logo=goland&logoColor=black">
+    <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%2305ced7?style=for-the-badge&logo=webstorm&logoColor=black">
+    <img alt="Pycharm" src="https://img.shields.io/badge/pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black">
+    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-%230e7dee.svg?style=for-the-badge&logo=intellij-idea&logoColor=black">
+    <img alt="Rider" src="https://img.shields.io/badge/Rider-crimson.svg?style=for-the-badge&logo=Rider&logoColor=black">
+    <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
+    <img alt="Charles" src="https://img.shields.io/badge/Charles-%23bfb6b7.svg?style=for-the-badge">
+    </br>
+    </br>
+</details>
+
+<details> 
     <summary><h2>📊 Github Stats and Activity</h2></summary>
     <h3>🔥 Streak Stats</h3>
     <a href="https://github.com/lhbelfanti">
