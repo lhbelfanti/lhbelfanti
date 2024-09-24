@@ -42,7 +42,6 @@
         <li>🌱 &nbsp;Currently studying Artificial Intelligence, Machine Learning and Natural Language Processing</li>
         <li>🧬 &nbsp;Read more about me at <a href="https://www.lucasbelfanti.com/">lucasbelfanti.com</a></li>
         <li>💼 &nbsp;Working for <a href="https://mercadolibre.com/">Mercado Libre</a></li>
-        <li>⚡  &nbsp;Fun fact: I ❤️ 🐶s, 🎮s, coding 💻 and learning languages 🗣️</li>
     </ul>
 </details>
 
