@@ -1,17 +1,17 @@
 <p align="center">
-    <a href="https://lucasbelfanti.com">
+    <a href="https://lhbelfanti.dev">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=1000&color=FEAE4C&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there+%F0%9F%91%8B+welcome+to+my+profile!" alt="Hi there 👋 welcome to my profile!" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://lucasbelfanti.com">
+    <a href="https://lhbelfanti.dev">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=1000&color=FEAE4C&center=true&vCenter=true&repeat=false&width=435&height=30&lines=I+am+Lucas+Belfanti" alt="I am Lucas Belfanti" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://lucasbelfanti.com">
+    <a href="https://lhbelfanti.dev">
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=1000&color=FEAE4C&center=true&vCenter=true&width=435&height=30&lines=Full+Stack+Software+Developer;Mainly+focused+on+Back+End;%2B10+years+of+coding+experience" alt="Description" />
     </a>
 </p>
@@ -20,7 +20,7 @@
     <a href="mailto:lhbelfanti@gmail.com">
         <img alt="contact me" title="Contact me" src="https://custom-icon-badges.demolab.com/badge/Contact-Me-e05e44.svg?labelColor=ce4530&logo=mail&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://lucasbelfanti.com">
+    <a href="https://lhbelfanti.dev">
         <img alt="about me" title="About me" src="https://custom-icon-badges.demolab.com/badge/About-Me-e1ac0e.svg?labelColor=be9500&logo=globe&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://github.com/lhbelfanti?tab=repositories&sort=stargazers">
@@ -36,11 +36,11 @@
 
 <details open> 
     <summary><h2> About Me</h2></summary>
-    <a href="https://lucasbelfanti.com"><img src="./media/hi.png" align="right" height="200"/></a>
+    <a href="https://lhbelfanti.dev"><img src="./media/hi.png" align="right" height="200"/></a>
     <ul>
         <li>🔭 &nbsp;Constantly learning new things</li>
         <li>🌱 &nbsp;Currently studying Artificial Intelligence, Machine Learning and Natural Language Processing</li>
-        <li>🧬 &nbsp;Read more about me at <a href="https://www.lucasbelfanti.com/">lucasbelfanti.com</a></li>
+        <li>🧬 &nbsp;Read more about me at <a href="https://www.lhbelfanti.dev/">lhbelfanti.dev</a></li>
         <li>💼 &nbsp;Working for <a href="https://mercadolibre.com/">Mercado Libre</a></li>
     </ul>
 </details>
@@ -153,7 +153,7 @@
     <!--a href="https://github.com/lhbelfanti">
         <img alt="lhbelfanti's Github Stats" src="https://github-readme-stats-lhbelfanti.vercel.app/api/?username=lhbelfanti&show_icons=true&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70" height="192px"/>
     </a-->
-    <a href="https://lucasbelfanti.com"><img src="./media/code.png" align="right" height="275" /></a>
+    <a href="https://lhbelfanti.dev"><img src="./media/code.png" align="right" height="275" /></a>
     <h3>⌨️ Top Languages</h3>
     <a href="https://github.com/lhbelfanti">
         <img alt="lhbelfanti's Top" src="https://github-readme-stats-lhbelfanti.vercel.app/api/top-langs/?username=lhbelfanti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2B2B2C&title_color=FFDB70&icon_color=FFDB70&hide=Jupyter%20Notebook,Roff,ShaderLab" height="192px"/>
