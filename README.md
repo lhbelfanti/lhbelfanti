@@ -138,6 +138,6 @@
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-0e7dee.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"/>
 <img alt="Rider" src="https://img.shields.io/badge/Rider-crimson.svg?style=for-the-badge&logo=Rider&logoColor=black"/>
 <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-<img alt="Charles" src="https://img.shields.io/badge/Charles-FFFFFF.svg?style=for-the-badge&logo=charles&logoColor=white">
+<img alt="Charles" src="https://img.shields.io/badge/Charles-bfb6b7.svg?style=for-the-badge&logo=charles&logoColor=white">
 
 </details>
