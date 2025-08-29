@@ -86,6 +86,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 <h3>💻 Technologies & Frameworks</h3>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="PostgresSQL" src="https://img.shields.io/badge/PostgresSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -93,9 +94,14 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Remix" src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white"/>
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img alt="DataDog" src="https://img.shields.io/badge/DataDog-512D98?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img alt="NewRelic" src="https://img.shields.io/badge/NewRelic-39a064?style=for-the-badge&logo=newrelic&logoColor=white"/>
+<img alt="Kibana" src="https://img.shields.io/badge/Kibana-4fb4a8?style=for-the-badge&logo=kibana&logoColor=white"/>
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-f18824?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 <h3>🧰 Tools</h3>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-EE6A33?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="Goland" src="https://img.shields.io/badge/GoLand-895dfd?style=for-the-badge&logo=goland&logoColor=black"/>
 <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-05ced7?style=for-the-badge&logo=webstorm&logoColor=black"/>
 <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black"/>
