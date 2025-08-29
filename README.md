@@ -129,7 +129,7 @@
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
-<img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-2b2b2b.svg?style=for-the-badge"/>
+<img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-2b2b2b.svg?style=for-the-badge&logo=jekyll&logoColor=important""/>
 <img alt="HUGO" src="https://img.shields.io/badge/HUGO-black.svg?style=for-the-badge&logo=Hugo"/>
 <img alt="QT" src="https://img.shields.io/badge/Qt-217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
 <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/>
@@ -138,6 +138,6 @@
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-0e7dee.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"/>
 <img alt="Rider" src="https://img.shields.io/badge/Rider-crimson.svg?style=for-the-badge&logo=Rider&logoColor=black"/>
 <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-<img alt="Charles" src="https://img.shields.io/badge/Charles-bfb6b7.svg?style=for-the-badge">
+<img alt="Charles" src="https://img.shields.io/badge/Charles-FFFFFF.svg?style=for-the-badge&logo=charles&logoColor=white">
 
 </details>
