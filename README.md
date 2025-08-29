@@ -55,7 +55,7 @@
 
 - [**GoXCrap**](https://github.com/lhbelfanti/goxcrap) – X (formerly Twitter) web scrapper (written in Go)
 - [**AHBCC**](https://github.com/lhbelfanti/ahbcc) – Adverse Human Behaviors Corpus Creator (written in Go)
-- [**Binarizer**](https://github.com/lhbelfanti/binarizer) – Tool for manual creation of a dataset to be used in a binary classification algorithm (using Typescript and Remix)
+- [**Binarizer**](https://github.com/lhbelfanti/binarizer) – A tool for manually creating datasets for binary classification (TypeScript + Remix)
 - [**Mahjong**](https://github.com/lhbelfanti/mahjong) – Mahjong Solitaire game coded from scratch (made in Unity)
 - [**Overpass API**](https://github.com/lhbelfanti/overpass-api) - Running optimized Overpass API image
 
@@ -69,7 +69,7 @@
 
 ---
 
-<details open> 
+<details> 
 <summary><h2>⚡ Current Stack</h2></summary>
 
 <a href="https://lhbelfanti.dev"><img src="./media/code.png" align="right" height="275" /></a>
