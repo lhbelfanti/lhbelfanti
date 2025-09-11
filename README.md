@@ -69,45 +69,48 @@
 
 ---
 
-<details> 
+<details open> 
 <summary><h2>⚡ Current Stack</h2></summary>
 
 <a href="https://lhbelfanti.dev"><img src="./media/code.png" align="right" height="275" /></a>
 
 <h3>👨‍💻 Programming Languages & Markup Languages</h3>
-<a href="https://github.com/search?q=user%3Alhbelfanti+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a>
-<a href="https://github.com/search?q=user%3Alhbelfanti+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+<a href="https://github.com/search?q=user%3Alhbelfanti+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge"/></a>
+<a href="https://github.com/search?q=user%3Alhbelfanti+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a href="https://github.com/search?q=user%3Alhbelfanti+language%3ASQL"><img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge"/></a>
 <a href="https://github.com/search?q=user%3Alhbelfanti+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
-<a href="https://github.com/search?q=user%3Alhbelfanti+language%3ATypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<a href="https://github.com/search?q=user%3Alhbelfanti+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-<a href="https://github.com/search?q=user%3Alhbelfanti+language%3AHTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://github.com/search?q=user%3Alhbelfanti+language%3ACSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+<a href="https://github.com/search?q=user%3Alhbelfanti+language%3ATypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://github.com/search?q=user%3Alhbelfanti+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/></a>
+<a href="https://github.com/search?q=user%3Alhbelfanti+language%3AHTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge"/></a>
+<a href="https://github.com/search?q=user%3Alhbelfanti+language%3ACSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff&style=for-the-badge"/></a>
+<img alt="SASS" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge"/>
 
 <h3>💻 Technologies & Frameworks</h3>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="PostgresSQL" src="https://img.shields.io/badge/PostgresSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Remix" src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white"/>
-<img alt="Swagger" src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-<img alt="DataDog" src="https://img.shields.io/badge/DataDog-512D98?style=for-the-badge&logo=datadog&logoColor=white"/>
-<img alt="NewRelic" src="https://img.shields.io/badge/NewRelic-39a064?style=for-the-badge&logo=newrelic&logoColor=white"/>
-<img alt="Kibana" src="https://img.shields.io/badge/Kibana-4fb4a8?style=for-the-badge&logo=kibana&logoColor=white"/>
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-f18824?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"/>
+<img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge"/>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
+<img alt="Remix" src="https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=for-the-badge"/>
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge"/>
+<img alt="DataDog" src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=for-the-badge"/>
+<img alt="NewRelic" src="https://img.shields.io/badge/New%20Relic-1CE783?logo=newrelic&logoColor=000&style=for-the-badge"/>
+<img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge"/>
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge"/>
+<img alt="Google BigQuery" src="https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=for-the-badge"/>
 
 <h3>🧰 Tools</h3>
-<img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-EE6A33?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"/>
+<img alt="Gitlab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge"/>
 <img alt="Goland" src="https://img.shields.io/badge/GoLand-895dfd?style=for-the-badge&logo=goland&logoColor=black"/>
 <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-05ced7?style=for-the-badge&logo=webstorm&logoColor=black"/>
 <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black"/>
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img alt="Jira" src="https://img.shields.io/badge/JIRA-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge"/>
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack"/>
 
 </details>
@@ -126,18 +129,18 @@
 
 <h3>💻 Technologies & Frameworks</h3>
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
-<img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-2b2b2b.svg?style=for-the-badge&logo=jekyll&logoColor=important""/>
-<img alt="HUGO" src="https://img.shields.io/badge/HUGO-black.svg?style=for-the-badge&logo=Hugo"/>
-<img alt="QT" src="https://img.shields.io/badge/Qt-217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
-<img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/>
+<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
+<img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff&style=for-the-badge"/>
+<img alt="HUGO" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=for-the-badge"/>
+<img alt="QT" src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge"/>
+<img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=for-the-badge"/>
 
 <h3>🧰 Tools</h3>
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-0e7dee.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"/>
 <img alt="Rider" src="https://img.shields.io/badge/Rider-crimson.svg?style=for-the-badge&logo=Rider&logoColor=black"/>
 <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-<img alt="Charles" src="https://img.shields.io/badge/Charles-bfb6b7.svg?style=for-the-badge&logo=charles&logoColor=white">
+<img alt="Charles" src="https://img.shields.io/badge/Charles-F3F5F5?logo=charles&logoColor=000&style=for-the-badge">
 
 </details>
