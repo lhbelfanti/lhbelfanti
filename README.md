@@ -92,7 +92,6 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
-<img alt="Remix" src="https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=for-the-badge"/>
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge"/>
 <img alt="DataDog" src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=for-the-badge"/>
 <img alt="NewRelic" src="https://img.shields.io/badge/New%20Relic-1CE783?logo=newrelic&logoColor=000&style=for-the-badge"/>
@@ -138,6 +137,7 @@
 <h3>💻 Technologies & Frameworks</h3>
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Remix" src="https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=for-the-badge"/>
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
 <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff&style=for-the-badge"/>
