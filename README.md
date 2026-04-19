@@ -54,7 +54,7 @@
 <summary><h2>🚀 Featured Open Source Projects</h2></summary>
 
 - [**GoXCrap**](https://github.com/lhbelfanti/goxcrap) – X (formerly Twitter) web scrapper (written in Go)
-- [**AHBCC**](https://github.com/lhbelfanti/ahbcc) – Adverse Human Behaviors Corpus Creator (written in Go)
+- [**Corpus Creator**](https://github.com/lhbelfanti/corpus-creator) – Corpus Creator (written in Go)
 - [**Binarizer**](https://github.com/lhbelfanti/binarizer) – A tool for manually creating datasets for binary classification (TypeScript + Remix)
 - [**Mahjong**](https://github.com/lhbelfanti/mahjong) – Mahjong Solitaire game coded from scratch (made in Unity)
 - [**Overpass API**](https://github.com/lhbelfanti/overpass-api) - Running optimized Overpass API image
