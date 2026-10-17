@@ -113,12 +113,12 @@
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack"/>
 
 <h4>🤖 AI Tools</h4>
-<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge"/>
-<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff&style=for-the-badge"/>
-<img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=for-the-badge"/>
-<img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge"/>
-<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge">
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=fff&style=for-the-badge"/>
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff&style=for-the-badge">
 <img alt="NotebookLM" src="https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge">
+<img alt="Codex" src="https://img.shields.io/badge/Codex-5B5CE2?style=for-the-badge"/>
+<img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-5786FE?logo=deepseek&logoColor=fff&style=for-the-badge"/>
+<img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes%20Agent-F59E0B?style=for-the-badge"/>
 
 </details>
 
@@ -150,5 +150,9 @@
 <img alt="Rider" src="https://img.shields.io/badge/Rider-crimson.svg?style=for-the-badge&logo=Rider&logoColor=black"/>
 <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 <img alt="Charles" src="https://img.shields.io/badge/Charles-F3F5F5?logo=charles&logoColor=000&style=for-the-badge">
+
+<h4>🤖 AI Tools</h4>
+<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff&style=for-the-badge"/>
+<img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge"/>
 
 </details>
