@@ -103,10 +103,6 @@
 <h3>🧰 Tools</h3>
 <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"/>
 <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge"/>
-<img alt="Goland" src="https://img.shields.io/badge/GoLand-895dfd?style=for-the-badge&logo=goland&logoColor=black"/>
-<img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-05ced7?style=for-the-badge&logo=webstorm&logoColor=black"/>
-<img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black"/>
-<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge"/>
@@ -144,6 +140,10 @@
 <img alt="HUGO" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=for-the-badge"/>
 <img alt="QT" src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge"/>
 <img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=for-the-badge"/>
+<img alt="Goland" src="https://img.shields.io/badge/GoLand-895dfd?style=for-the-badge&logo=goland&logoColor=black"/>
+<img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-05ced7?style=for-the-badge&logo=webstorm&logoColor=black"/>
+<img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black"/>
+<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <h3>🧰 Tools</h3>
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-0e7dee.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"/>
